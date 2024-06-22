@@ -38,3 +38,21 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 # git status
   git add .
+  git commit -m "End of section 2"
+  git branch -M master
+  git remote add origin https://github.com/tonycruz-dev/next-match.git
+  git push -u origin master
+
+## libs
+  https://react-hook-form.com/
+  npm install react-hook-form zod @hookform/resolvers
+  https://zod.dev/
+  https://authjs.dev/getting-started
+
+
+  npx prisma generate
+  npx prisma db push
+  npx prisma studio
+  npm i bcryptjs
+  npm i -D @types/bcryptjs
+  npm install --save react-toastify
