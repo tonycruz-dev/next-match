@@ -36,7 +36,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 
-# git status
+## git status
   git add .
   git commit -m "End of section 2"
   git branch -M master
@@ -56,3 +56,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
   npm i bcryptjs
   npm i -D @types/bcryptjs
   npm install --save react-toastify
+  npx prisma db seed
